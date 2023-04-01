@@ -16,3 +16,8 @@
 ## Requirements
 
 Install requirements with command **pip install -r requirements.txt**
+
+## Build and run instructions
+
+docker build -t bot-example .
+docker run -ti -e TELEGRAM_API_TOKEN=<your_telegram_api_token> bot-example
