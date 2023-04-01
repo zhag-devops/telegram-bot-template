@@ -13,3 +13,6 @@
 2) Type **Python: Select interpreter**
 3) Select **./.venv/bin/python**
 
+## Requirements
+
+Install requirements with command **pip install -r requirements.txt**
